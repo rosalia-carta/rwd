@@ -13,3 +13,4 @@ $(function () {
     $(".lorem-text-3").html(lorem3);
 
 });
+
